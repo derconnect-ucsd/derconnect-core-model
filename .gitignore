@@ -1,0 +1,14 @@
+# Ignore everything
+*
+*.*
+
+# But allow subdirectories to be tracked
+!*/
+
+# But keep these files
+!.gitignore
+!*.rtfx
+!*.tlo
+!*.tli
+!*.py
+!*.md
